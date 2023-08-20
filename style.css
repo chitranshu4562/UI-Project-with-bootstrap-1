@@ -1,0 +1,9 @@
+.logo {
+    font-size: 30px !important;
+    font-weight: 500;
+    color: darkblue !important;
+}
+
+.custom-image {
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75));
+}
